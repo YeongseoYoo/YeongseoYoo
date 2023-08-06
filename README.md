@@ -1,6 +1,6 @@
 <div align="center">
  
-### Hi there 👋
+### Welcome👋
 ### I'm Yeongseo Yoo, a growing developer🍀
 
 
