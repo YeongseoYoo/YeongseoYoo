@@ -1,7 +1,7 @@
 ### Welcome👋
 ### I'm Yeongseo Yoo, a growing developer🍀
 
-</n>
+
 ## Activities 
 - SOLUX: Programming Club ( 2022.03 ~ Now )
 - NAVER "Play with AI, Play with DATA" mentor ( 2021.07 ~ 2022.02 )
