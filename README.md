@@ -2,8 +2,7 @@
   
 ### Welcome👋
 ### I'm Yeongseo Yoo, a growing developer🍀
-<br>
-</br>
+<br/>
 </div>
 
 
@@ -12,8 +11,6 @@
 - NAVER "Play with AI, Play with DATA" mentor ( 2021.07 ~ 2022.02 )
 - SAMSUNG Dream Class mentor ( 2021.08 ~ 2022.02 )
 - Sookmyung Ambassador ( 2020.03 ~ 2021. 06 )
-<br>
-</br>
   
 ## Tech Stack
 
