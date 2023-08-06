@@ -13,5 +13,5 @@
 - Sookmyung Ambassador ( 2020.03 ~ 2021. 06 )
   
 ## Tech Stack
-
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
