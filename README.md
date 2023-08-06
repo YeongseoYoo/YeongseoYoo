@@ -3,7 +3,7 @@
 ### Welcome👋
 ### I'm Yeongseo Yoo, a growing developer🍀
 <br/>
-</div>
+
 
 
 ## Activities 
@@ -13,7 +13,7 @@
 - Sookmyung Ambassador ( 2020.03 ~ 2021. 06 )
   
 ## Tech Stack
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Node.js-lightgray?style=flat-sqaure&logo=nodedotjs&logoColor=339933"/> 
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-lightgray?style=flat-sqaure&logo=nodedotjs&logoColor=339933"/> 
 <img src="https://img.shields.io/badge/AWS-black?style=flat-square&logo=amazonaws&logoColor=white"/>
+
+</div>
