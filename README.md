@@ -14,5 +14,5 @@
 <br/>
 
 ## Tech Stack
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-lightgray?style=flat-sqaure&logo=nodedotjs&logoColor=339933"/> 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/MySQL-lightpink?style=flat&logo=mysql&logoColor=4479A1"/> <img src="https://img.shields.io/badge/AWS-black?style=flat-square&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-lightgray?style=flat&logo=nodedotjs&logoColor=339933"/> 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/MySQL-lightpink?style=flat&logo=mysql&logoColor=4479A1"/> <img src="https://img.shields.io/badge/MariaDB-white?style=flat&logo=mariadb&logoColor=003545"/> <img src="https://img.shields.io/badge/AWS-black?style=flat&logo=amazonaws&logoColor=white"/>
