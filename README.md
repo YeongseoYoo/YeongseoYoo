@@ -1,6 +1,6 @@
 <div align="center">
   
-<p style="font-size: 24px; font-weight: bold;">Welcome👋</p>
+<h2>Welcome👋</h2>
 <p style="font-size: 18px;">I'm Yeongseo Yoo, a growing developer🍀</p>
 <br/>
 
