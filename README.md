@@ -3,8 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=a8e6df&height=180&text=Welcome👋&animation=fadeIn&fontColor=000000&fontSize=50" />
   </div>
 
-<h1>I'm Yeongseo Yoo, a growing developer🍀</h1>
-<br/>
+<h2>I'm Yeongseo Yoo, a growing developer🍀</h2>
 
 <h2>⛳ Activities ⛳</h2>
 <p style="text-align: center;">신한투자증권 프로 디지털 아카데미 3기 (2023.12.27 ~)</p>
