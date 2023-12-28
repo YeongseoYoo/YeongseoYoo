@@ -1,6 +1,8 @@
 <div align="center">
-  
-<h2>Welcome👋</h2>
+<div align= "center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=a8e6df&height=180&text=Welcome👋&animation=fadeIn&fontColor=000000&fontSize=50" />
+  </div>
+
 <p style="font-size: 18px;">I'm Yeongseo Yoo, a growing developer🍀</p>
 <br/>
 
