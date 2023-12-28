@@ -22,6 +22,6 @@
 <img src="https://img.shields.io/badge/AWS-black?style=flat&logo=amazonaws&logoColor=white" alt="AWS"/> 
 <br/> <br/> 
 
-<p style="font-size: 20px; font-weight: bold;">Top Languages</p>
+<h2>Top Languages</h2>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=Makefile,typescript,html,GO,javascript,css,Rust,GLSL,Shell,Astro&layout=compact" alt="Top Languages"/>
 </div>
