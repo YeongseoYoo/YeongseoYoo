@@ -5,15 +5,14 @@
 <br/>
 
 ## ⛳ Activities ⛳ 
-- 신한투자증권 프로 디지털 아카데미 3기 (2023.12.27 ~)
-- SOLUX Programming Club (2022.03 ~ 2023.09.13)
-- NAVER "Play with AI, Play with DATA" mentor (2021.07 ~ 2022.02)
-- SAMSUNG Dream Class mentor (2021.08 ~ 2022.02)
-- Sookmyung Ambassador (2020.03 ~ 2021.06)  
+#### 신한투자증권 프로 디지털 아카데미 3기 (2023.12.27 ~)
+#### SOLUX Programming Club (2022.03 ~ 2023.09.13)
+#### NAVER "Play with AI, Play with DATA" mentor (2021.07 ~ 2022.02)
+#### SAMSUNG Dream Class mentor (2021.08 ~ 2022.02)
+#### Sookmyung Ambassador (2020.03 ~ 2021.06)  
 <br/>
-
+</div>
 ## 🛠 Tech Stack 🛠
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-lightgray?style=flat&logo=nodedotjs&logoColor=339933"/> 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/MySQL-lightpink?style=flat&logo=mysql&logoColor=4479A1"/> <img src="https://img.shields.io/badge/MariaDB-white?style=flat&logo=mariadb&logoColor=003545"/> <img src="https://img.shields.io/badge/AWS-black?style=flat&logo=amazonaws&logoColor=white"/> <br/> <br/> 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=Makefile,typescript,html,GO,javascript,css,Rust,GLSL,Shell,Astro&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</div>
