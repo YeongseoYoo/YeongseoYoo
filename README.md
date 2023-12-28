@@ -15,5 +15,5 @@
 ## 🛠 Tech Stack 🛠
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-lightgray?style=flat&logo=nodedotjs&logoColor=339933"/> 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/MySQL-lightpink?style=flat&logo=mysql&logoColor=4479A1"/> <img src="https://img.shields.io/badge/MariaDB-white?style=flat&logo=mariadb&logoColor=003545"/> <img src="https://img.shields.io/badge/AWS-black?style=flat&logo=amazonaws&logoColor=white"/> <br/> <br/> 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=MakeFile,typescript,html,GO,javascript,css,Rust,GLSL,Shell,Astro&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=Makefile,typescript,html,GO,javascript,css,Rust,GLSL,Shell,Astro&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
