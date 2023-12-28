@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=a8e6df&height=180&text=Welcome👋&animation=fadeIn&fontColor=000000&fontSize=50" />
   </div>
 
-<p style="font-size: 24px;">I'm Yeongseo Yoo, a growing developer🍀</p>
+<h1>I'm Yeongseo Yoo, a growing developer🍀</h1>
 <br/>
 
 <h2>⛳ Activities ⛳</h2>
