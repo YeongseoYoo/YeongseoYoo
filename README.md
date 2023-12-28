@@ -7,7 +7,7 @@
 
 
 ## ⛳ Activities ⛳ 
-#### 신한투자증권 프로 디지털 아카데미 3기 ( 2023 . 12 ~
+#### 신한투자증권 프로 디지털 아카데미 3기 ( 2023.12.27 ~
 #### SOLUX Programming Club ( 2022.03 ~ 2023.09.13 ) 
 #### NAVER "Play with AI, Play with DATA" mentor ( 2021.07 ~ 2022.02 )
 #### SAMSUNG Dream Class mentor ( 2021.08 ~ 2022.02 )
