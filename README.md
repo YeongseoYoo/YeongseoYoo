@@ -4,8 +4,14 @@
   </div>
 
   <p style="text-align: center; font-size: 24px; font-weight: bold;">I'm Yeongseo Yoo, a growing developer🍀</p>
+  <p>꾸준함</p>
   <br>
 
+  <h2>About me</h2>
+  <p style="text-align: center;"></p>
+  
+ 
+  <br/>
   <h2>⛳ Activities ⛳</h2>
   <p style="text-align: center;">신한투자증권 프로 디지털 아카데미 3기 (2023.12.27 ~)</p>
   <p style="text-align: center;">SOLUX Programming Club (2022.03 ~ 2023.09.13)</p>
