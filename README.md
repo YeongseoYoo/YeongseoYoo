@@ -9,6 +9,7 @@
 
   <h2>About me</h2>
   <p style="text-align: center;"></p>
+  
  
   <br/>
   <h2>⛳ Activities ⛳</h2>
