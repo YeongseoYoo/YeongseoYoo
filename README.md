@@ -4,10 +4,11 @@
   </div>
 
   <p style="text-align: center; font-size: 24px; font-weight: bold;">I'm Yeongseo Yoo, a growing developer🍀</p>
-  <p>꾸준함</p>
+ 
   <br>
 
   <h2>About me</h2>
+  <p>꾸준함</p>
   <p style="text-align: center;"></p>
   
  
