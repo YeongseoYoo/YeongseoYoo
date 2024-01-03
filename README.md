@@ -33,4 +33,10 @@
 
   <h2>Top Languages</h2>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=Makefile,typescript,html,GO,javascript,css,Rust,GLSL,Shell,Astro&layout=compact" alt="Top Languages"/>
+
+  <h3 align="center"><b>💌 Social 💌 </b></h3>
+</br>
+<p align="center">
+  <a href="mailto:youngseo1221@naver.com><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:youngseo1221@naver.com"/></a>
+<a href="https://www.instagram.com/122lst"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/122lst"/></a>
 </div>
