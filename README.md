@@ -41,7 +41,4 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:youngseo1314@gmail.com"/></a>
 <a href="https://www.instagram.com/122lst"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/122lst"/></a>
 </p>
-
-![image](https://github.com/YeongseoYoo/YeongseoYoo/assets/102814269/d7871caa-9028-4b7e-a428-dccb8c0240bb)
-
 </div>
