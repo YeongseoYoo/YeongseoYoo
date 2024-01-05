@@ -41,4 +41,7 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:youngseo1314@gmail.com"/></a>
 <a href="https://www.instagram.com/122lst"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/122lst"/></a>
 </p>
+
+<a href="https://github.com/SJJuunnY/SJJuunnY/blob/main/temp/README.md">performance metrics</a>
+
 </div>
