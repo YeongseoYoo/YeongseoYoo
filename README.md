@@ -7,8 +7,6 @@
  
   <br>
 
-  <h2>About me</h2>
- 
   <br/>
   <h2>⛳ Activities ⛳</h2>
   <p style="text-align: center;">신한투자증권 프로 디지털 아카데미 3기 (2023.12.27 ~)</p>
