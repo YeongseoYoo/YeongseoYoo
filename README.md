@@ -1,6 +1,6 @@
 <div align="center">
   <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=a8e6df&height=180&text=🌟Welcome👋&animation=fadeIn&fontColor=000000&fontSize=50" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=a8e6df&height=180&text=Welcome👋&animation=fadeIn&fontColor=000000&fontSize=50" />
   </div>
 
   <p style="text-align: center; font-size: 24px; font-weight: bold;">I'm Yeongseo Yoo, a growing developer🍀</p>
@@ -8,9 +8,6 @@
   <br>
 
   <h2>About me</h2>
-  <p>꾸준함</p>
-  <p style="text-align: center;"></p>
-  
  
   <br/>
   <h2>⛳ Activities ⛳</h2>
@@ -41,7 +38,5 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:youngseo1314@gmail.com"/></a>
 <a href="https://www.instagram.com/122lst"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/122lst"/></a>
 </p>
-
-<a href="https://github.com/SJJuunnY/SJJuunnY/blob/main/temp/README.md">performance metrics</a>
 
 </div>
