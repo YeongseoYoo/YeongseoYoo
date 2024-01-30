@@ -27,7 +27,7 @@
   <br/> <br/> 
 
   <h2>Top Languages</h2>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=Makefile,javascript,css,html,GO,Rust,GLSL,Shell,Astro&layout=compact" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=Makefile,typescript,javascript,css,html,GO,Rust,GLSL,Shell,Astro&layout=compact" alt="Top Languages"/>
 
   <h3 align="center"><b>💌 Social 💌 </b></h3>
 </br>
