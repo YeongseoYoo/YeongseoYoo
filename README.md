@@ -16,7 +16,7 @@
   <p style="text-align: center;">Sookmyung Ambassador (2020.03 ~ 2021.06)</p>
   <br/>
 
-  <h2>🛠 Tech Stack 🛠</h2>
+  <h2>🛠 Tech Stack </h2>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white" alt="Python"/> 
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white" alt="Java"/> 
   <img src="https://img.shields.io/badge/Node.js-lightgray?style=flat&logo=nodedotjs&logoColor=339933" alt="Node.js"/> 
