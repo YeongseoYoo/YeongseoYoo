@@ -9,6 +9,7 @@
 
   <br/>
   <h2>⛳ Activities ⛳</h2>
+  <p style="text-align: center;">DB증권 ICT운영팀 (2025.01.02~)</p>
   <p style="text-align: center;">KDB 산업은행 코어금융부 인턴 (2024.10.14 ~ 2024.12.20)</p>
   <p style="text-align: center;">신한투자증권 프로 디지털 아카데미 3기 (2023.12.27 ~ 2024.06.27)</p>
   <p style="text-align: center;">SOLUX Programming Club (2022.03 ~ 2023.09.13)</p>
